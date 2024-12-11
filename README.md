@@ -1,3 +1,13 @@
+<div align="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=Rakeshahir1213&label=Profile%20views&color=27AE60&style=flat" alt="Rakesh Solanki"/> </p>
+<h1 >Hi 👋, I'm 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=font=Poppins&weight=500&size=30&pause=1000&vCenter=true&random=false&width=350&height=30&lines=Chhatrodiya+Mayur;Web+Developer" alt="Typing SVG" align="center"/></a>
+</h1>
+</div>
+
+
+
+
 # 💫 About Me:
 -I'm Currently Working On ** .Net Framwork*<br><br>-Ask Me About **HTML,CSS,JavaScript,C#,DotNetFramwork<br><br>-Haw To Reach Me **Solankirakesh5085Gmail.com*<br><br>-"Breaking Things To Learn How They Work."<br>
 
