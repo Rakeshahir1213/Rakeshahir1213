@@ -7,31 +7,54 @@
 
 
 
+<br/>
 
-# 💫 About Me:
--I'm Currently Working On ** .Net Framwork*<br><br>-Ask Me About **HTML,CSS,JavaScript,C#,DotNetFramwork<br><br>-Haw To Reach Me **Solankirakesh5085Gmail.com*<br><br>-"Breaking Things To Learn How They Work."<br>
+<div align="center">
+ 🌱 I’m A *Web Developer*
+ 
+💬 Ask me about **HTML, CSS, JavaScript, C#, .NET, or anything [here]()**
 
+⚡ Fun fact **Breaking Things To Learn How They Work**
+ </div>
+ 
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/rakesh-solanki-15a471261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+  
+  <a href="mailto:solankirakesh5085@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+ 
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rakesh_ahir_official?igsh=eDczNnViNzBhcmdk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rakesh-solanki-15a471261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rakeshahir1213?s=21) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@rakeshahir1213?si=9GaXUYbCY9gsa1ir) 
+ <hr/>
+ <h2 align="center">⚒️# Languages And Tools: #</h2>
+<div align="center">
+      <img src="https://skillicons.dev/icons?i=,.NET,html,css,javascript,C#,jquery,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,postman,github,"/>
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rakeshahir1213&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rakeshahir1213&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshahir1213&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+<hr/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rakeshahir1213&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+<!-- <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Chhatrodiyamayur/Chhatrodiyamayur/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div> -->
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h2>🐍 Contribution activity 🐍</h2>
+  <br>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakeshahir1213&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshahir1213&theme=dark&hide_border=false">
+  
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshahir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"> -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rakeshahir1213&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rakeshahir1213&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
